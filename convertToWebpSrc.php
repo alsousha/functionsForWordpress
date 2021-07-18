@@ -1,3 +1,4 @@
+//Plagin WebP Converter for Media (Wordpress) make directory "uploads-webpc/uploads/..". For replace the default folder with folder for webp images use function: 
 <?php
 function convertToWebpSrc($src){
   $src_webp = $src . '.webp';
